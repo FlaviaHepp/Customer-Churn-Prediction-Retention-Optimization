@@ -1,4 +1,5 @@
 Python
-Pandas / NumPy
+Pandas 
+NumPy
 Scikit-learn
 MLflow
